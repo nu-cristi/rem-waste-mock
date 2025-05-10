@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Skip container -->
+    <path d="M50 100 L350 100 L380 200 L20 200 Z" fill="#FFD700" stroke="#000000" stroke-width="4"/>
+    <!-- Side panels -->
+    <path d="M50 100 L20 200 L20 250 L50 150 Z" fill="#DAA520" stroke="#000000" stroke-width="2"/>
+    <path d="M350 100 L380 200 L380 250 L350 150 Z" fill="#DAA520" stroke="#000000" stroke-width="2"/>
+    <!-- Bottom panel -->
+    <path d="M20 200 L380 200 L380 250 L20 250 Z" fill="#B8860B" stroke="#000000" stroke-width="2"/>
+    <!-- Logo text -->
+    <text x="200" y="160" font-family="Arial" font-size="24" fill="#000000" text-anchor="middle">SKIP HIRE</text>
+</svg>
